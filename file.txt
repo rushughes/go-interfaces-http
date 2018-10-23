@@ -1,0 +1,7 @@
+Hi
+
+This is the contents of a file that is stored on our local harddrive
+
+You need to read this file in
+Then print it out to the local terminal to pass
+DONT FAIL
